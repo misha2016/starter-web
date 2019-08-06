@@ -8,10 +8,12 @@ This is just an introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Purpose is to provide simple examples for Git training demos.
 
 ## Deployment
-..
+
+Deployment can happen on any web server or event local file system.
 
 ## How To Contribute
-...
+
+This tex
