@@ -4,7 +4,7 @@ This is a simple website project for showing how to use Git and Github together.
 
 ## Introduction
 
-This is just an introduction
+This is a simpler intro...
 
 ## Purpose
 
@@ -16,4 +16,3 @@ Deployment can happen on any web server or event local file system.
 
 ## How To Contribute
 
-This tex
